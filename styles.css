@@ -1,0 +1,31 @@
+
+html, body {
+  background-color: rgb(240,240,240);
+  font-family: 'DM Mono', monospace;
+  font-weight:300;
+  font-size: 16px;
+  margin: 10;
+  padding: 5;
+  padding-left: 10px;
+}
+canvas {
+  display: block;
+}
+
+
+
+p.center {
+  text-align: center;
+
+}
+
+p.weight{
+  font-weight:500;
+
+}
+
+
+p.large {
+  font-size: 300%;
+}
+
